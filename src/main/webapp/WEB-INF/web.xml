@@ -1,0 +1,57 @@
+<web-app version="3.0">
+  <display-name>Archetype Created Web Application</display-name>
+  <servlet>
+    <servlet-name>Servl</servlet-name>
+    <servlet-class>org.itstep.controller.Servlet</servlet-class>
+    <!--<load-on-startup>1</load-on-startup>-->
+  </servlet>
+  <welcome-file-list>
+    <welcome-file>homeView.jsp</welcome-file>
+  </welcome-file-list>
+  <servlet-mapping>
+    <servlet-name>Servl</servlet-name>
+    <url-pattern>/</url-pattern>
+    <url-pattern>/logout</url-pattern>
+    <url-pattern>/employeeTask</url-pattern>
+    <url-pattern>/index</url-pattern>
+    <url-pattern>/registration</url-pattern>
+    <url-pattern>/barbersAll</url-pattern>
+    <url-pattern>/servicesAll</url-pattern>
+    <url-pattern>/dateAll</url-pattern>
+    <url-pattern>/timeAll</url-pattern>
+    <url-pattern>/booking</url-pattern>
+    <url-pattern>/payment</url-pattern>
+    <url-pattern>/records</url-pattern>
+    <url-pattern>/recordList</url-pattern>
+    <url-pattern>/personal</url-pattern>
+    <url-pattern>/addMoney</url-pattern>
+  </servlet-mapping>
+
+  <filter>
+    <filter-name>EncodingFilter</filter-name>
+    <filter-class>org.itstep.controller.filters.EncodingFilter</filter-class>
+  </filter>
+  <filter-mapping>
+    <filter-name>EncodingFilter</filter-name>
+    <url-pattern>/*</url-pattern>
+  </filter-mapping>
+
+
+  <listener>
+    <listener-class>
+      org.itstep.controller.listener.SessionListener
+    </listener-class>
+  </listener>
+
+  <welcome-file-list>
+
+    <welcome-file>/</welcome-file>
+
+  </welcome-file-list>
+
+  <error-page>
+    <exception-type>java.lang.Exception</exception-type>
+    <location>/WEB-INF/views/error.jsp</location>
+  </error-page>
+
+</web-app>

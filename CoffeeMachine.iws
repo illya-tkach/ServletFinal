@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a2ccef0-02f4-4c0f-bb84-0c342fe63f21" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="barberservlet@localhost [2]" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CoffeeMachine" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Kotlin File" />
+        <option value="jsf" />
+        <option value="Interface" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PKBxyVtHrTnZNwKycl3vnY7NKQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/org/itstep/model/entity" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.itstep.controller.Command" />
+      <recent name="org.itstep.model.entity.enums" />
+      <recent name="org.itstep.model.entity.enum" />
+      <recent name="org.itstep.model.entity" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\BarberShop\ServletFinal-master\src\main\java\org\itstep\model\entity" />
+      <recent name="D:\BarberShop\ServletFinal-master\src\main\webapp\WEB-INF\views" />
+      <recent name="D:\BarberShop\ServletFinal-master\src\main\webapp\WEB-INF\parts" />
+      <recent name="D:\BarberShop\ServletFinal-master\src\main\webapp\WEB-INF\error" />
+      <recent name="D:\CoffeeMachine3\CoffeeMachine\src\main\webapp\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.itstep.model.entity.validator" />
+      <recent name="org.itstep.dao.exception" />
+      <recent name="org.itstep.model.entity" />
+      <recent name="org.itstep.controller.command" />
+      <recent name="org.itstep.controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CoffeeMachine3\CoffeeMachine\src\main\webapp\WEB-INF" />
+      <recent name="D:\CoffeeMachine3\CoffeeMachine\src\main\webapp" />
+      <recent name="D:\CoffeeMachine3\CoffeeMachine\src\main\webapp\WEB-INF\views" />
+      <recent name="D:\CoffeeMachine3\CoffeeMachine\src\main\webapp\WEB-INF\user" />
+      <recent name="D:\CoffeeMachine3\CoffeeMachine\src\main\webapp\WEB-INF\admin" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2">
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="clean" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_CoffeeMachine" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51082" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a2ccef0-02f4-4c0f-bb84-0c342fe63f21" name="Default" comment="" />
+      <created>1515606224766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1515606224766</updated>
+      <workItem from="1563729085648" duration="1050000" />
+      <workItem from="1563793854160" duration="12475000" />
+      <workItem from="1563824742782" duration="22552000" />
+      <workItem from="1563888200779" duration="3514000" />
+      <workItem from="1563895187216" duration="1562000" />
+      <workItem from="1563969789156" duration="9771000" />
+      <workItem from="1564037454334" duration="124619000" />
+      <workItem from="1564562657531" duration="1358000" />
+      <workItem from="1564564414270" duration="1768000" />
+      <workItem from="1564566250414" duration="1601000" />
+      <workItem from="1564576834077" duration="1759000" />
+      <workItem from="1564578655177" duration="598000" />
+      <workItem from="1564581142238" duration="1672000" />
+      <workItem from="1564582956477" duration="1770000" />
+      <workItem from="1564585387768" duration="793000" />
+      <workItem from="1564599918648" duration="1704000" />
+      <workItem from="1564601721108" duration="1752000" />
+      <workItem from="1564603539772" duration="1811000" />
+      <workItem from="1564640603156" duration="683000" />
+      <workItem from="1564643275215" duration="742000" />
+      <workItem from="1564647078387" duration="1771000" />
+      <workItem from="1564648957763" duration="1685000" />
+      <workItem from="1564653876183" duration="1713000" />
+      <workItem from="1564655690080" duration="1722000" />
+      <workItem from="1564657499120" duration="1762000" />
+      <workItem from="1564659319556" duration="1798000" />
+      <workItem from="1564661212878" duration="1526000" />
+      <workItem from="1564665608553" duration="1711000" />
+      <workItem from="1564667410297" duration="1760000" />
+      <workItem from="1564669221181" duration="1471000" />
+      <workItem from="1564671568852" duration="1619000" />
+      <workItem from="1564673407372" duration="1739000" />
+      <workItem from="1564675218565" duration="1157000" />
+      <workItem from="1564684547731" duration="1784000" />
+      <workItem from="1564687811988" duration="2031000" />
+      <workItem from="1564689910904" duration="1452000" />
+      <workItem from="1564691737298" duration="1019000" />
+      <workItem from="1564692925233" duration="959000" />
+      <workItem from="1564818117932" duration="1138000" />
+      <workItem from="1564820553812" duration="1761000" />
+      <workItem from="1564822498833" duration="1209000" />
+      <workItem from="1564824741412" duration="1336000" />
+      <workItem from="1564827741654" duration="597000" />
+      <workItem from="1564909930292" duration="1937000" />
+      <workItem from="1564912584835" duration="1738000" />
+      <workItem from="1564914399313" duration="1718000" />
+      <workItem from="1564919876206" duration="1304000" />
+      <workItem from="1564921660727" duration="1734000" />
+      <workItem from="1564923552385" duration="1135000" />
+      <workItem from="1564925823409" duration="597000" />
+      <workItem from="1564928359869" duration="2094000" />
+      <workItem from="1564930590180" duration="1851000" />
+      <workItem from="1564932507729" duration="1695000" />
+      <workItem from="1564934412233" duration="1733000" />
+      <workItem from="1564936298750" duration="1695000" />
+      <workItem from="1564938280526" duration="1646000" />
+      <workItem from="1564940163257" duration="1750000" />
+      <workItem from="1564941989721" duration="1721000" />
+      <workItem from="1564943831782" duration="1796000" />
+      <workItem from="1564945731046" duration="1734000" />
+      <workItem from="1564948677282" duration="1748000" />
+      <workItem from="1564950630210" duration="1728000" />
+      <workItem from="1564952435112" duration="1741000" />
+      <workItem from="1564954346804" duration="944000" />
+      <workItem from="1564993532901" duration="2008000" />
+      <workItem from="1564995765182" duration="1943000" />
+      <workItem from="1564997860023" duration="1357000" />
+      <workItem from="1564999875880" duration="1740000" />
+      <workItem from="1565001745700" duration="1810000" />
+      <workItem from="1565003603224" duration="1769000" />
+      <workItem from="1565005437029" duration="599000" />
+      <workItem from="1565010093417" duration="1211000" />
+      <workItem from="1565012056521" duration="1762000" />
+      <workItem from="1565013975398" duration="1819000" />
+      <workItem from="1565075222114" duration="1667000" />
+      <workItem from="1565077013242" duration="1346000" />
+      <workItem from="1565079047032" duration="1752000" />
+      <workItem from="1565080866253" duration="1745000" />
+      <workItem from="1565082854881" duration="1824000" />
+      <workItem from="1565084751204" duration="1775000" />
+      <workItem from="1565086714488" duration="1741000" />
+      <workItem from="1565088826315" duration="1329000" />
+      <workItem from="1565096397434" duration="589000" />
+      <workItem from="1565099023767" duration="1652000" />
+      <workItem from="1565101238067" duration="1675000" />
+      <workItem from="1565103090556" duration="186000" />
+      <workItem from="1565106900041" duration="1638000" />
+      <workItem from="1565266982565" duration="1148000" />
+      <workItem from="1565268767361" duration="64000" />
+      <workItem from="1565269355596" duration="1372000" />
+      <workItem from="1565271178278" duration="598000" />
+      <workItem from="1565385041905" duration="934000" />
+      <workItem from="1565513431567" duration="1464000" />
+      <workItem from="1565515521220" duration="592000" />
+      <workItem from="1565517367212" duration="595000" />
+      <workItem from="1565519480991" duration="597000" />
+      <workItem from="1565522007433" duration="770000" />
+      <workItem from="1565524066578" duration="594000" />
+      <workItem from="1565526835041" duration="595000" />
+      <workItem from="1565528668429" duration="598000" />
+      <workItem from="1565535373917" duration="1248000" />
+      <workItem from="1565537136358" duration="1598000" />
+      <workItem from="1565538966371" duration="1340000" />
+      <workItem from="1565540772970" duration="1227000" />
+      <workItem from="1565542824078" duration="598000" />
+      <workItem from="1565545039103" duration="1698000" />
+      <workItem from="1565546977960" duration="589000" />
+      <workItem from="1565550691823" duration="1054000" />
+      <workItem from="1565552612788" duration="1496000" />
+      <workItem from="1565554403440" duration="1708000" />
+      <workItem from="1565556737833" duration="577000" />
+      <workItem from="1565598951595" duration="596000" />
+      <workItem from="1565601463621" duration="1456000" />
+      <workItem from="1565603742459" duration="1467000" />
+      <workItem from="1565605795513" duration="130000" />
+      <workItem from="1565613189300" duration="4362000" />
+      <workItem from="1565619537714" duration="3161000" />
+      <workItem from="1565633302377" duration="13834000" />
+      <workItem from="1565768625597" duration="1481000" />
+      <workItem from="1565855415468" duration="34204000" />
+      <workItem from="1565900475508" duration="14686000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.jsp" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/itstep/dao/impl/JDBCRecordsDao.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/itstep/controller/filters/SecurityFilter.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/itstep/controller/filters/SecurityFilter.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/itstep/controller/filters/SecurityFilter.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/itstep/controller/filters/SecurityFilter.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/itstep/controller/utils/SecurityUtils.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/itstep/controller/utils/SecurityUtils.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/itstep/controller/utils/SecurityUtils.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/itstep/controller/utils/UrlPatternUtils.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/itstep/controller/utils/UrlPatternUtils.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/itstep/controller/utils/UrlPatternUtils.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/itstep/controller/utils/UrlPatternUtils.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/itstep/dao/impl/JDBCUserDao.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/itstep/dao/impl/JDBCUserDao.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/itstep/controller/command/AddNewRecord.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/itstep/controller/command/AddNewRecord.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/itstep/controller/command/BookingCommand.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/itstep/controller/command/BookingCommand.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/itstep/controller/command/PaymentCommand.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/itstep/dao/impl/JDBCBarberDao.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/itstep/dao/impl/JDBCBarberDao.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/itstep/dao/impl/JDBCUserDao.java</url>
+          <line>118</line>
+          <properties class="org.itstep.dao.impl.JDBCUserDao">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/itstep/dao/impl/JDBCUserDao.java</url>
+          <line>108</line>
+          <properties class="org.itstep.dao.impl.JDBCUserDao">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/itstep/model/entity/validator/DateAndTimeValidator.java</url>
+          <line>35</line>
+          <properties class="org.itstep.model.entity.validator.DateAndTimeValidator">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/itstep/dao/impl/JDBCBarberDao.java</url>
+          <line>44</line>
+          <properties class="org.itstep.dao.impl.JDBCBarberDao">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>
