@@ -64,7 +64,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="database.console.LAST_STATE" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/org/itstep/model/entity" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/org/itstep" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -79,11 +79,11 @@
       <recent name="org.itstep.model.entity" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\BarberShop\ServletFinal-master\src\test\java\org\itstep" />
+      <recent name="D:\BarberShop\ServletFinal-master\src\test\java\org\itstep\dao\impl" />
       <recent name="D:\BarberShop\ServletFinal-master\src\main\java\org\itstep\model\entity" />
       <recent name="D:\BarberShop\ServletFinal-master\src\main\webapp\WEB-INF\views" />
       <recent name="D:\BarberShop\ServletFinal-master\src\main\webapp\WEB-INF\parts" />
-      <recent name="D:\BarberShop\ServletFinal-master\src\main\webapp\WEB-INF\error" />
-      <recent name="D:\CoffeeMachine3\CoffeeMachine\src\main\webapp\resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="org.itstep.model.entity.validator" />
@@ -112,7 +112,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.UserValidatorTest,testValidate_valid and 2 more">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -121,6 +121,68 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientValidatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BarberShop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.itstep.model.entity.validator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.itstep.model.entity.validator" />
+      <option name="MAIN_CLASS_NAME" value="org.itstep.model.entity.validator.ClientValidatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DaoFactoryTest.testGetInstance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BarberShop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.itstep.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.itstep.dao" />
+      <option name="MAIN_CLASS_NAME" value="org.itstep.dao.DaoFactoryTest" />
+      <option name="METHOD_NAME" value="testGetInstance" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcDaoFactoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BarberShop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.itstep.dao.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.itstep.dao.impl" />
+      <option name="MAIN_CLASS_NAME" value="org.itstep.dao.impl.JdbcDaoFactoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserValidatorTest,testValidate_valid and 2 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BarberShop" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <patterns>
+        <pattern testClass="org.itstep.model.entity.validator.UserValidatorTest,testValidate_valid" />
+        <pattern testClass="org.itstep.model.entity.validator.UserValidatorTest,testValidate_inValidUserName" />
+        <pattern testClass="org.itstep.model.entity.validator.UserValidatorTest,testValidate_invalidPassword" />
+      </patterns>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -239,6 +301,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserValidatorTest,testValidate_valid and 2 more" />
+        <item itemvalue="JUnit.ClientValidatorTest" />
+        <item itemvalue="JUnit.DaoFactoryTest.testGetInstance" />
+        <item itemvalue="JUnit.JdbcDaoFactoryTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -370,7 +440,7 @@
       <workItem from="1565633302377" duration="13834000" />
       <workItem from="1565768625597" duration="1481000" />
       <workItem from="1565855415468" duration="34204000" />
-      <workItem from="1565900475508" duration="14686000" />
+      <workItem from="1565900475508" duration="19246000" />
     </task>
     <servers />
   </component>
